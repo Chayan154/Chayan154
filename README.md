@@ -1,6 +1,8 @@
 ### Hi there 👋
-# I am Chayan Mandal
-## I am a coder
+# I am Chayan Mandal 🐼
+# আমি চয়ন মন্ডল 🐼
+
+## I am a coder 👨‍💻
 
 <!--
 **Chayan154/Chayan154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
