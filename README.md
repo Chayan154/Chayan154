@@ -1,6 +1,7 @@
 ### Hi there 👋
-# I am Chayan Mandal 🐼
-# আমি চয়ন মন্ডল 🐼
+# I am Chayan!!
+# Nice to meet you!!
+# আমি চয়ন !!
 
 ## I am a coder 👨‍💻
 
