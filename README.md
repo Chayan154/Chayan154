@@ -2,8 +2,9 @@
 # I am Chayan!!
 # Nice to meet you!!
 # আমি চয়ন !!
+## 🌱 I’m currently learning
+## I code for fun 👨‍💻
 
-## I am a coder 👨‍💻
 
 <!--
 **Chayan154/Chayan154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
