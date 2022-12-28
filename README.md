@@ -2,8 +2,8 @@
 # I am Chayan!!
 # Nice to meet you!!
 # আমি চয়ন !!
-## 🌱 I’m currently learning
 ## I code for fun 👨‍💻
+## 🌱 I love learning new things everyday
 
 
 <!--
